@@ -1,7 +1,9 @@
-Program ini ditujukan untuk memenuhi Ujian Tengah Semester mata kuliah Pemrograman Web Lanjut<br />
-Nama : Vinsensius Robby Anggara<br />
-NIM : 120140192<br />
-Program Studi : Teknik Informatika<br />
+-----------------------------------------------------------------------------------------------------
+Program ini ditujukan untuk memenuhi Ujian Tengah Semester mata kuliah Pemrograman Web Lanjut <br />
+Nama : Vinsensius Robby Anggara <br />
+NIM : 120140192 <br />
+Program Studi : Teknik Informatika <br />
+-----------------------------------------------------------------------------------------------------
 
 Langkah - langkah untuk menjalankan program :
 
