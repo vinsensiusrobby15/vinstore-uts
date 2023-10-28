@@ -1,0 +1,80 @@
+.shopTitle {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 28px;
+  color: #e8f953;
+  background-color:#280031;
+  width: 30%;
+  margin-left: 33rem;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+} 
+
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color:#e8f953;
+}
+
+img {
+  width: 80px;
+}
+
+.products {
+  width: 100%;
+  height: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  place-items: center;
+}
+
+.product {
+  border-radius: 15px;
+  width: 300px;
+  height: 420px;
+  margin: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:#280031;
+  color: aliceblue;
+}
+
+.product img {
+  width: 100px;
+}
+
+.product .description {
+  text-align: center;
+}
+
+.product:hover {
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+
+.addToCartBttn {
+  background-color: transparent;
+  border: 2px solid #e8f953;
+  min-width: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  color: white;
+}
+
+.addToCartBttn:hover {
+  background-color: #e8f953;
+  color: #280031;
+  cursor: pointer;
+}
+/* Tambahkan CSS ini ke dalam file CSS Anda atau gunakan inline style di komponen Anda */
+.message-list {
+  max-height: 300px; /* Atur tinggi maksimum yang Anda inginkan */
+  overflow-y: auto; /* Aktifkan gulir vertikal jika konten melebihi tinggi maksimum */
+}
