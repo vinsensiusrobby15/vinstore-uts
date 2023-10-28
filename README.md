@@ -1,9 +1,7 @@
-Program ini ditujukan untuk memenuhi Ujian Tengah Semester mata kuliah Pemrograman Web Lanjut
-Nama : Vinsensius Robby Anggara
-NIM : 120140192
-Program Studi : Teknik Informatika
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Program ini ditujukan untuk memenuhi Ujian Tengah Semester mata kuliah Pemrograman Web Lanjut<br />
+Nama : Vinsensius Robby Anggara<br />
+NIM : 120140192<br />
+Program Studi : Teknik Informatika<br />
 
 Langkah - langkah untuk menjalankan program :
 
