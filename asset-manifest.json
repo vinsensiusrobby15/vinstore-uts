@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vinsensiusrobby15/vinstore-uts/static/css/main.1a786d12.css",
-    "main.js": "/vinsensiusrobby15/vinstore-uts/static/js/main.a3fcf88c.js",
-    "static/media/weekly.png": "/vinsensiusrobby15/vinstore-uts/static/media/weekly.2cb140e07300be9a3324.png",
-    "static/media/prem.png": "/vinsensiusrobby15/vinstore-uts/static/media/prem.0bcf7b5d9682c90824f8.png",
-    "static/media/sl.png": "/vinsensiusrobby15/vinstore-uts/static/media/sl.f47ade94a7ceecd0f6aa.png",
-    "static/media/joki2.png": "/vinsensiusrobby15/vinstore-uts/static/media/joki2.c2b78da9c6e9b115c62e.png",
-    "static/media/joki1.png": "/vinsensiusrobby15/vinstore-uts/static/media/joki1.040f2948de7604c944ef.png",
-    "index.html": "/vinsensiusrobby15/vinstore-uts/index.html",
-    "main.1a786d12.css.map": "/vinsensiusrobby15/vinstore-uts/static/css/main.1a786d12.css.map",
-    "main.a3fcf88c.js.map": "/vinsensiusrobby15/vinstore-uts/static/js/main.a3fcf88c.js.map"
+    "main.css": "/vinstore-uts/static/css/main.1a786d12.css",
+    "main.js": "/vinstore-uts/static/js/main.5efc2ce3.js",
+    "static/media/weekly.png": "/vinstore-uts/static/media/weekly.2cb140e07300be9a3324.png",
+    "static/media/prem.png": "/vinstore-uts/static/media/prem.0bcf7b5d9682c90824f8.png",
+    "static/media/sl.png": "/vinstore-uts/static/media/sl.f47ade94a7ceecd0f6aa.png",
+    "static/media/joki2.png": "/vinstore-uts/static/media/joki2.c2b78da9c6e9b115c62e.png",
+    "static/media/joki1.png": "/vinstore-uts/static/media/joki1.040f2948de7604c944ef.png",
+    "index.html": "/vinstore-uts/index.html",
+    "main.1a786d12.css.map": "/vinstore-uts/static/css/main.1a786d12.css.map",
+    "main.5efc2ce3.js.map": "/vinstore-uts/static/js/main.5efc2ce3.js.map"
   },
   "entrypoints": [
     "static/css/main.1a786d12.css",
-    "static/js/main.a3fcf88c.js"
+    "static/js/main.5efc2ce3.js"
   ]
 }
