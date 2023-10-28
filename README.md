@@ -17,6 +17,9 @@ Gunakan terminal lalu masuk ke direktori `topup` dan masukkan perintah `npm star
 
 Untuk build gunakan terminal lalu masukkan perintah `npm run build`.
 
+---------------------------------------------------------------------------------------------------
+
 Setelah homepage ditampilkan, klik menu beranda lalu website "VinStore Mobile Legends" akan tampil.
 
+---------------------------------------------------------------------------------------------------
 
